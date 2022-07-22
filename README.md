@@ -2,7 +2,7 @@
 ![Jinoook Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjinoook&theme=dark&show_icons=true)
 
 
-# 한정수 포트폴리오
+# 김진욱 포트폴리오
 >캐치 프레이즈
 
 </br>
